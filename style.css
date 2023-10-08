@@ -1,0 +1,48 @@
+body {
+  background: #D9D1B2;
+}
+
+.TopBar {
+  border: 5px solid black;
+  text-align: center;
+  background: #5C5848;
+  font-size: 24px;
+}
+
+.Shop {
+  border: 2px solid black;
+  position: relative;
+  top: -10px;
+  width: 600px;
+  left: 650px;
+  font-size: 20px;
+}
+
+h2, h3 {
+  text-align: center;
+}
+
+h3 {
+  position: relative;
+  top: -40px;
+}
+
+.orderform {
+  position: relative;
+  font-size: 20px;
+  left: 800px;
+  top: -20px;
+}
+
+.UserBox {
+  width: 205px;
+}
+.OrderBox {
+  width: 265px;
+}
+.submitbutton {
+  position: relative;
+  left: 80px;
+  top: 10px;
+  font-size: 20px;
+}
