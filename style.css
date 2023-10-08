@@ -26,23 +26,9 @@ h3 {
   position: relative;
   top: -40px;
 }
-
-.orderform {
+p {
+  text-align: center;
   position: relative;
-  font-size: 20px;
-  left: 800px;
-  top: -20px;
-}
-
-.UserBox {
-  width: 205px;
-}
-.OrderBox {
-  width: 265px;
-}
-.submitbutton {
-  position: relative;
-  left: 80px;
-  top: 10px;
-  font-size: 20px;
+  top: -50px;
+  font-size: 18px;
 }
